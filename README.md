@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lokeshbhardwaj20
-- 👀 I’m interested in WEB development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on web technology
+- 👋 Hi, I’mlokesh Bhardwaj
+- 👀 I’m passionate coder and interested in web development, tech, problem sovling.
+- 🌱 I’m always curious learning.
+- 💞️ I’m looking to collaborate on web technology.
 - 📫 How to reach me l.bhardwaj95@gmail.com
 
 <!---
