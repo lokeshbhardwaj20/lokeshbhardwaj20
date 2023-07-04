@@ -1,4 +1,4 @@
-- 👋 Hi, I’mlokesh Bhardwaj
+- 👋 Hi, I’m Lokesh Bhardwaj
 - 👀 I’m passionate coder and interested in web development, tech, problem sovling.
 - 🌱 I’m always curious learning.
 - 💞️ I’m looking to collaborate on web technology.
